@@ -2,6 +2,26 @@ name: Project Proposal
 about: Propose a new mini-project or initiative
 labels: ["proposal"]
 body:
+  - type: dropdown
+    id: proposal_type
+    attributes:
+      label: Proposal type
+      options:
+        - New idea for IDEA_BANK
+        - New module project card
+        - General initiative
+    validations:
+      required: true
+  - type: dropdown
+    id: track
+    attributes:
+      label: Target track
+      options:
+        - CS + Software Engineering
+        - Cybersecurity
+        - Cross-track
+    validations:
+      required: true
   - type: textarea
     id: objective
     attributes:
@@ -21,5 +41,21 @@ body:
     attributes:
       label: Student impact
       description: How does this help contributors prove experience?
+    validations:
+      required: true
+  - type: textarea
+    id: first_pr_scope
+    attributes:
+      label: First PR scope
+      description: What is the smallest meaningful first PR for this idea?
+      placeholder: One concrete deliverable a new contributor can finish quickly.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence contributors can show
+      description: What portfolio-ready outputs should contributors have after completing this?
+      placeholder: Merged PR link, test output, benchmark table, threat model artifact, etc.
     validations:
       required: true

@@ -31,3 +31,17 @@ Your contribution should be:
 ## Good first contributions
 
 See `docs/onboarding/first-issues.md`.
+
+## Add a new project idea
+
+You can contribute new ideas to `projects/IDEA_BANK.md`.
+
+1. Open a **Project Proposal** issue (`.github/ISSUE_TEMPLATE/project-proposal.yml`) or go straight to PR.
+2. Add your idea using the template in `projects/IDEA_BANK.md`.
+3. Keep scope clear with a realistic first PR deliverable.
+4. Include evidence expectations (what contributors can show recruiters).
+
+Idea IDs:
+
+- `IB-CSSE-XX` for CS + Software Engineering ideas
+- `IB-CY-XX` for Cybersecurity ideas
