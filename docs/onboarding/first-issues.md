@@ -4,15 +4,11 @@ Start with tasks tagged `good first issue`.
 
 ## Role-specific starting points
 
-### Computer Science students
+### CS + Software Engineering students
 
 - improve algorithm explanations,
-- add complexity analysis notes,
-- contribute tests/benchmarks for data structures tasks.
-
-### Software Engineering students
-
-- fix scoped bugs with tests,
+- fix scoped bugs with regression tests,
+- add complexity analysis and performance notes,
 - improve CI/repository automation,
 - improve developer onboarding docs.
 

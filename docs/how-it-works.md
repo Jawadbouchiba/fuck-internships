@@ -8,9 +8,9 @@ Turn open-source contributions into clear evidence of skills, ownership, and imp
 
 Start by selecting a module in `projects/`:
 
-- `projects/computer-science/README.md`
-- `projects/software-engineering/README.md`
+- `projects/cs-software-engineering/README.md`
 - `projects/cybersecurity/README.md`
+- `projects/IDEA_BANK.md` for concrete project ideas.
 
 Each module gives starter projects and role-specific deliverables.
 
