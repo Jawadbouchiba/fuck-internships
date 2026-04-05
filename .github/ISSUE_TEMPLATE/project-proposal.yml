@@ -1,0 +1,25 @@
+name: Project Proposal
+about: Propose a new mini-project or initiative
+labels: ["proposal"]
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: What outcome should this project create?
+    validations:
+      required: true
+  - type: textarea
+    id: plan
+    attributes:
+      label: Plan
+      description: Suggested first milestones.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Student impact
+      description: How does this help contributors prove experience?
+    validations:
+      required: true

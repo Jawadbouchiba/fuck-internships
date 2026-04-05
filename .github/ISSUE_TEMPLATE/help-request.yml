@@ -1,0 +1,23 @@
+name: Help Request
+about: Ask for implementation or contributor help
+labels: ["help wanted"]
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What are you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Blockers
+      description: What is blocking progress?
+    validations:
+      required: true
+  - type: textarea
+    id: attempted
+    attributes:
+      label: Attempted approaches
+      description: What have you already tried?

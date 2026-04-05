@@ -1,0 +1,25 @@
+name: Good First Issue
+about: Beginner-friendly scoped task
+labels: ["good first issue"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem does this issue solve?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: Clear expected deliverable.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence expectation
+      description: What should contributor include in PR as proof?
+    validations:
+      required: true
