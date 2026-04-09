@@ -1,6 +1,6 @@
-# fuck-internships
+# open-internship
 
-`fuck-internships` is an open-source community for students and early-career developers to build real, reviewable experience through contributions.
+`open-internship` is an open-source community for students and early-career developers to build real, reviewable experience through contributions.
 
 If internships are hard to get, you can still prove your skills with shipped work, peer reviews, issue triage, docs improvements, and project leadership in public.
 

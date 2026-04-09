@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thanks for contributing to `fuck-internships`.
+Thanks for contributing to `open-internship`.
 
 ## Contribution standard
 

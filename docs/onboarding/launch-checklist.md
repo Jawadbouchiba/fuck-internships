@@ -21,4 +21,4 @@
 
 ## Outreach starter copy
 
-"If internships are hard to land, build proof in public. Join `fuck-internships` and ship real contributions with feedback and evidence you can show employers."
+"If internships are hard to land, build proof in public. Join `open-internship` and ship real contributions with feedback and evidence you can show employers."

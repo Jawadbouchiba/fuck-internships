@@ -1,6 +1,6 @@
 # Mission
 
-`fuck-internships` helps students prove professional readiness through open-source contributions when internship access is limited.
+`open-internship` helps students prove professional readiness through open-source contributions when internship access is limited.
 
 We prioritize:
 
